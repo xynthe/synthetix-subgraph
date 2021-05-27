@@ -1,4 +1,4 @@
-# Synthetix Subgraph
+# Xynthe Subgraph
 
 [![CircleCI](https://circleci.com/gh/Synthetixio/synthetix-subgraph.svg?style=svg)](https://circleci.com/gh/Synthetixio/synthetix-subgraph)
 
